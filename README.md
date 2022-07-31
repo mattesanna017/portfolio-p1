@@ -1,12 +1,6 @@
-# 08 Project 1: Professional Materials
+# Portfolio Project 1
 
-Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
-
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but it's also *critical* on your journey as a developer.
-
-## Homework Requirements
-
-* Updated portfolio featuring Project 1 and two exemplary homework assignments.
+* Updated portfolio featuring Project 1 and two exemplary repos.
 
 * Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
 
@@ -14,24 +8,6 @@ If you are opting out of career services, this is *still a required assignment*.
 
 * Updated LinkedIn profile
 
-## Grading
-
-| Requirement      | Weight |
-| ---------------- | ------ |
-| Portfolio        | 40%    |
-| GitHub Profile   | 40%    |
-| Resume           | 10%    |
-| LinkedIn Profile | 10%    |
-
-> **Note**: If a project submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
 
 ## Instructions
 
@@ -45,9 +21,7 @@ If you are opting out of career services, this is *still a required assignment*.
 
 ## Updated Portfolio
 
-💁 Need help updating your Portfolio? Check out the [career services milestone resources for online presence](https://mycareerspot.org/onlinepresence).
-
-Your updated portfolio should:
+Updated portfolio should:
 
 1. Display your contact information. If you don't want to share your personal email or phone number, use a separate email that you will only use for coding, also known as a developer email, and/or a call forwarding service, such as [Google Voice](https://voice.google.com/).
 
@@ -102,7 +76,7 @@ Your GitHub profile must contain at least the following items:
 
 	* Click the checkboxes for your project and 2-3 homework assignments that you would like to share
 
-6. Follow a few of your classmates and/or other developers. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code.
+6. Follow  other developers. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code.
 
 7. README files. Every pinned project should contain a README file with:
 
@@ -124,8 +98,6 @@ Your GitHub profile must contain at least the following items:
 
 ## Updated Resume 
 
-💁 Need help building a resume? Check out the [career services milestone resources](https://mycareerspot.org/resume).
-
 Submit a clear, concise, and compelling resume, tailored to the type of job you’re looking for.
 
 Your resume should include:
@@ -138,9 +110,5 @@ Your resume should include:
 
 ## Updated LinkedIn
 
-💁 Need help updating your LinkedIn? Check out the [career services milestone resources for online presence](https://mycareerspot.org/onlinepresence).
 
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
-
----
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
