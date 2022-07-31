@@ -39,6 +39,10 @@
 
 
 /* General styles */
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background: var(--clr-light);
     color: var(--clr-dark);
@@ -196,6 +200,19 @@ header {
     top: 1em;
     z-index: 1000;
 }
+
+.nav-open .nav {
+    transform: translateX(0);
+}
+
+.nav-open .nav-toggle {
+    position: fixed;
+}
+
+.nav-open .hamburger::after {
+    opacity: 0;
+}
+
 
 .hamburger {
     display: block;
