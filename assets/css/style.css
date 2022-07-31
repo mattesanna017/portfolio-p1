@@ -290,7 +290,7 @@ header {
 /*  My services section  */
 .my-services {
     background-color: var(--clr-dark);
-    background-image: url(/assets/images/myservicesbg.jpg);
+    background-image: url(/./assets/images/myservicesbg.jpg);
     background-size: cover;
     /* background-blend-mode: multiply; */
     color: var(--clr-light);
@@ -428,7 +428,7 @@ header {
 /*  resume section  */
 .my-resume {
     background-color: var(--clr-dark);
-    background-image: url(/assets/images/resume.jpg);
+    background-image: url(/./assets/images/resume.jpg);
     background-size: cover;
     /* background-blend-mode: multiply; */
     color: var(--clr-light);
