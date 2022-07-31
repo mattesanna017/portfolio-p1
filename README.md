@@ -110,5 +110,4 @@ Your resume should include:
 
 ## Updated LinkedIn
 
-
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
